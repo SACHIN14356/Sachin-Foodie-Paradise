@@ -2,6 +2,12 @@
 
 A fully responsive and visually engaging restaurant website designed to provide an immersive experience for food lovers. Built using HTML, CSS, and JavaScript, this frontend project simulates a real-world restaurant presence on the web.
 
+
+## 🚀 Live Demo
+
+🔗 [View Website on Netlify](https://sachinfoodieparadise.netlify.app/)
+
+
 ## 🌟 Features
 
 - **Responsive Design**: Optimized layout for mobile, tablet, and desktop views.
@@ -15,9 +21,7 @@ A fully responsive and visually engaging restaurant website designed to provide 
 - **Frontend**: HTML, CSS, JavaScript
 - **Tools Used**: Visual Studio Code, Netlify for deployment
 
-## 🚀 Live Demo
 
-🔗 [View Website on Netlify](https://sachinfoodieparadise.netlify.app/)
 
-## 📁 Project Structure
+
 
